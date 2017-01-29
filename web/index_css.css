@@ -1,0 +1,60 @@
+
+	h1{
+		color: #67204e;
+	}
+	
+	h3{
+		color: #475d5d;
+	}
+
+	body{
+		background: #779c9c;
+	}
+
+	#formbox{
+		border: black 1px dotted;
+		text-align: center;
+		margin: 100px 200px 0px 50px;
+		//float: left;
+	}
+	
+	#userfile{
+		
+		margin: 50px 200px 0px 200px;
+	}
+	
+	#btnHolders{
+	
+		margin: 10px 20px 0px 500px;
+	}
+	
+	.userWelcome{
+		font-size: medium;
+	}
+	
+	#userWarning{
+		font-variant: small-caps;
+		font-size: medium;
+	}
+	
+	#userNote{
+		magin: 10px 100px 0px -100px;
+		
+	}	
+	
+	#fInfoContainer{
+		border: double 3px;
+		float: right;
+		margin: 0px 1000px 5px 0px;
+	}
+	
+	.fInfo2{
+		background: #6181bf;
+	}
+	
+	.fInfo1{
+		font-weight: bold;
+	}
+	
+	#newuserform{
+		margin: 100px 600px 0px 0px;
